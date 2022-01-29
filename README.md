@@ -7,7 +7,6 @@
 
 # 🔧 Technologies & Tool
 
-fsdafdsfsdaf
 <!--
 **bhupi1998/bhupi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
