@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Bhupinder also known as BP. I have a technology diplome in Mechatronics and Robotics and I'm currently a 3rd year student in the Electrical Engineering Bachelor program at UVIC.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,autocad,c,cpp,git,jest,matlab,)](https://skillicons.dev)
 
 <!--
 <div>
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on my Bacherlor in Electrical Engineering at UVIC
+
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/bhupinder-singh-791b29132/)
