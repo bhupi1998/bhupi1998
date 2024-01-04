@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Bhupinder also known as BP. I have a technology diplome in Mechatronics and Robotics and I'm currently a 3rd year student in the Electrical Engineering Bachelor program at UVIC.
+My name is Bhupinder also known as BP. I have a technology diploma in Mechatronics and Robotics and I'm currently a 3rd year student in the Electrical Engineering Bachelor program at UVIC.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,autocad,c,cpp,git,jest,matlab,)](https://skillicons.dev)
 
