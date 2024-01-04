@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on my Bacherlor in Electrical Engineering at UVIC
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/bhupinder-singh-791b29132/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhupinder-singh-791b29132/)
